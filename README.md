@@ -4,9 +4,9 @@
 MERN stack app for containerizing and run using docker compose 
 
 ## pre-requisite,
-* Vite
-* cypress
-* eslint
+* Frontend/ Client
+* Backend/ Server
+* Database Layer
 * Docker Network
 * Docker Compose
 
