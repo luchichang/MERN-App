@@ -20,6 +20,6 @@
 ```
 ![image](https://github.com/user-attachments/assets/a385c57d-4674-4bd3-8a67-7251edb0ab62)
 
-Hurrah 🥳 application is running successfully in the local host and can be accessed in http:localhost:5173
+Hurrah 🥳 application is running successfully in the local host and can be accessed in http://localhost:5173
 
 ## steps to containerize the Frontend
