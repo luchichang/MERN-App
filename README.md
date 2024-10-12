@@ -10,13 +10,4 @@ MERN stack app for containerizing and run using docker compose
 * Docker Network
 * Docker Compose
 
-## Local Environment setup
-- install Node and npm 
-
-## steps to run the 
-
-## steps to containerize the Frontend
-
-## steps to containerize the Backend
-
-## steps to run the Database container
+<img width="920" alt="Three tier MERN app Docker Compose" src="https://github.com/user-attachments/assets/88a8ff22-6c28-407d-becb-0f195fc9f52a">
